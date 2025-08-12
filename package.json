@@ -14,7 +14,10 @@
     "@langchain/core": "^0.3.69",
     "@langchain/langgraph": "^0.4.4",
     "@langchain/openai": "^0.6.7",
+    "@tavily/core": "^0.5.10",
     "dotenv": "^17.2.1",
+    "langchain": "^0.3.30",
+    "tavily": "^1.0.2",
     "zod": "^3.25.76"
   }
 }
